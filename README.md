@@ -1,4 +1,7 @@
-#google-map-react examples
+#Love Wins 4 TW campaign global map
+
+This prjoect is adapated from [React-Google-Map-Examples](https://github.com/istarkov/google-map-react-examples). To contribute please follow the guidelines below.
+
 This project is isomorphic ~~Flummox~~ [redux](https://github.com/gaearon/redux) app with [google-map-react](https://github.com/istarkov/google-map-react) control examples.
 
 It also uses [non-standard approach](https://github.com/istarkov/google-map-react-examples/blob/master/docs/routing.md) for routing.   
